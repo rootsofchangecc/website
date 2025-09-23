@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Welcome
-<!-- subtitle:  -->
-<!-- gh-repo: daattali/beautiful-jekyll -->
-<!-- gh-badge: [star, fork, follow] -->
-<!-- tags: [test] -->
+subtitle: 
+tags: [test]
 comments: false
-<!-- mathjax: true -->
-<!-- author: Bill Smith -->
+author: 
 ---
 
 Roots of Change Community Centre is a registered, non-profit organization that was created to fill the needs of a growing Muslim community in North Toronto, Ontario.
