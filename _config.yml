@@ -20,11 +20,15 @@ author: Roots of Change Community Centre
 ###############################################
 
 navbar-links:
-  About Me: "About"
+  About:
+    - Introduction: "Introduction"
+    - Our Plan: "Our Plan"
+    - Our Team: "Our Team"
   Events:
     - Past: "Past"
     - Upcoming: "Upcoming"
   Donate: "Donate"
+  Contact: "Contact"
 
 ################
 # --- Logo --- #
@@ -39,7 +43,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/white.png
 
 
 #####################################
